@@ -1,0 +1,15 @@
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\exception\GlobalExceptionHandler.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\model\chatgpt\OpenAiProperties.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\model\chatgpt\OpenAi.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\common\DeleteRequest.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\common\ErrorCode.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\common\ResultUtils.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\until\ChatGptUntil.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\common\PageRequest.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\controller\ChatGptConttoller.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\exception\BusinessException.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\common\BaseResponse.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\model\chatgpt\ChatGptRepose.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\model\chatgpt\OpenAiChtGpt.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\OpenAiServiceApplication.java
+E:\javaProject2023\ead\openAIService\src\main\java\com\lmx\project\model\chatgpt\Choice.java
