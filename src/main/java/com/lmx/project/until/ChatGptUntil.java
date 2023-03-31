@@ -17,10 +17,10 @@ public class ChatGptUntil {
 
     @Value("${openai.token}")
     private String ApiKey;
-    @Value("${proxy.host}")
-    private String host;
-    @Value("${proxy.port}")
-    private int port;
+//    @Value("${proxy.host}")
+//    private String host;
+//    @Value("${proxy.port}")
+//    private int port;
 
     /**
      * 获取chatgpt的答案
