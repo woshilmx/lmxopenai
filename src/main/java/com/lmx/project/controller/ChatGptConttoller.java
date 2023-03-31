@@ -92,7 +92,7 @@ public class ChatGptConttoller {
                 messagelist.add(new OpenAiChtGpt("assistant", content));
                 String messagelistjson = gson.toJson(messagelist);
 // 当回答成功时，保存回答的结果到redis中
-                stringRedisTemplate.opsForValue().set("userid:" + chatGptConversion.getUserid(), messagelistjson);
+                stringRedisTemplate.opsForValue().set("userid:" + chatGptConversion.getUserid(), messagelistjson,1,TimeUnit.DAYS);
                 return ResultUtils.success(content);
             } else {
                 throw new BusinessException(ErrorCode.SYSTEM_ERROR, "平台助手错误，请重试");
