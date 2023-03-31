@@ -4,6 +4,11 @@ spring:
   application:
     name: openai-service
 #    chatgpt
+  redis:
+    port: 6379
+    host: 114.116.233.39
+    database: 0
+    password: 123456
 openai:
   token: ${OPENAI_API_KEY}
   timeout: 5000
